@@ -1,9 +1,5 @@
 # Bot Framework Samples
-Welcome to the Bot Framework Samples repository!
-
-This repo is for sample bots and code snippets to show the capabilities of the Bot Framework and Cognitive Services.
-
-If you want to contribute samples for the Bot Builder SDK, please visit the [Bot Builder SDK samples repo](https://github.com/Microsoft/BotBuilder-Samples).
+This repo contains samples that are specifically used in the docs. You can find additional [SDK V4](https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples) and [SDK V3](https://github.com/Microsoft/BotBuilder-Samples/tree/v3-sdk-samples) in the BotBuilder-Samples repo.
 
 ## Contributing
 
